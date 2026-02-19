@@ -7,4 +7,7 @@ func main() {
 	fmt.Println("212")
 	fmt.Println("there new text")
 	fmt.Println("123")
+	for i := 0; i < 3; i++ {
+		fmt.Println("backend", i)
+	}
 }
